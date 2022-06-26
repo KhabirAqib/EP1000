@@ -18,7 +18,7 @@ body {
 #nav {
   background-color: grey:
   display: inline;
-  float: left;
+  float: top;
   display: block;
   padding: 8px;
   background-color: #dddddd;
