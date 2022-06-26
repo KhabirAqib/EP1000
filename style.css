@@ -16,8 +16,14 @@ body {
   padding: 10px;
 }
 #nav {
-  background-color: grey;
+  background-color: grey:
   display: inline-block;
+  float: left;
+}
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
 }
 #main {
   width 600px;
