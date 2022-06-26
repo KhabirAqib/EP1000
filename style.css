@@ -17,11 +17,14 @@ body {
 }
 #nav {
   background-color: grey:
-  display: inline-block;
+  display: inline;
   float: left;
   display: block;
   padding: 8px;
   background-color: #dddddd;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 #main {
   width 600px;
