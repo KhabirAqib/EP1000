@@ -16,8 +16,8 @@ body {
   padding: 10px;
 }
 #nav {
-  width: 180px;
-  float:left;
+  background-color: grey;
+  display: inline-block;
 }
 #main {
   width 600px;
