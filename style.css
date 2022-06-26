@@ -23,7 +23,7 @@ body {
 }
 #main {
   width 600px;
-  float: right;
+  float: center;
 }
 #footer {
   clear: both;
