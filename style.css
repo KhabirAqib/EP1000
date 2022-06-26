@@ -1,10 +1,7 @@
 body {
   background-color: #fffdd0;
-  margin-left: auto;
-  margin-right: auto;
 }
 #container {
-  background-color: white;
   width: 800px;
   margin-left: auto;
   margin-right: auto;
@@ -12,13 +9,9 @@ body {
 #header {
   color: white;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
 }
 #content {
   padding: 10px;
-  margin-left: auto;
-  margin-right: auto;
 }
 #nav {
   display: block;
@@ -26,26 +19,18 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  margin-left: auto;
-  margin-right: auto;
 }
 #main {
   width 600px;
   float: center;
-  margin-left: auto;
-  margin-right: auto;
 }
 #footer {
   clear: both;
-  margin-left: auto;
-  margin-right: auto;
 }
 table, th,td {
   border-collapse: collapse;
   border: 3px solid;
   border-color: black;
-  margin-left: auto;
-  margin-right: auto;
 }
 ul {
   list-style-type: none;
@@ -60,8 +45,6 @@ ul {
 
 li {
   float: left;
-  margin-left: auto;
-  margin-right: auto;
 
 }
 
@@ -71,8 +54,6 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* Change the link color to #111 (black) on hover */
