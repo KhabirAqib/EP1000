@@ -8,7 +8,6 @@ body {
   margin-right: auto;
 }
 #header {
-  background-color: grey;
   color: white;
   text-align: center;
 }
@@ -16,12 +15,8 @@ body {
   padding: 10px;
 }
 #nav {
-  background-color: grey:
-  display: inline;
-  float: top;
   display: block;
   padding: 8px;
-  background-color: #dddddd;
   position: fixed;
   top: 0;
   width: 100%;
