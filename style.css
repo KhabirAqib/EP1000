@@ -15,7 +15,7 @@ body {
 }
 #nav {
   display: block;
-  
+    padding: 8px;
     position: fixed;
     top: 0;
     width: 100%;
